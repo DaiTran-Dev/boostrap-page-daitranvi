@@ -345,6 +345,9 @@ a.article-item{
     background: #EDEFF0;
     padding-left: 0;
 }
+.title-sibaLeft{
+    margin-top: -10px;
+}
 .content-detail .card-body{
     padding: 40px;
 }
