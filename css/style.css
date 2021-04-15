@@ -345,6 +345,13 @@ a.article-item{
     background: #EDEFF0;
     padding-left: 0;
 }
+.content-detail .card-body{
+    padding: 40px;
+}
+.content-detail a{
+    color: red;
+    text-decoration: underline;
+}
 footer{
     color: #000;
 }
